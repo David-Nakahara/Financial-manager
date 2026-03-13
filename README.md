@@ -24,6 +24,7 @@ A aplicação está disponível online:
 ## Banco de Dados
 ![H2](https://img.shields.io/badge/H2-004088?style=for-the-badge&logo=h2&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+-
 ⚠️ H2 utilizado no desenvolvimento. Para produção, o projeto está preparado para migração para PostgreSQL.
 # 🧠 Arquitetura
 O sistema segue arquitetura Full Stack com API REST.
