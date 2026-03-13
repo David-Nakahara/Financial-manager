@@ -1,8 +1,8 @@
 # 💰 MoneyMind — Seu Gestor Financeiro
 ## 📌 Sobre o Projeto
-O MoneyMind é uma aplicação Full Stack de gestão financeira, desenvolvida para ajudar usuários a organizar contas, registrar transações e visualizar movimentações financeiras de forma simples e intuitiva.
+• O MoneyMind é uma aplicação Full Stack de gestão financeira, desenvolvida para ajudar usuários a organizar contas, registrar transações e visualizar movimentações financeiras de forma simples e intuitiva.
 A plataforma permite acompanhar receitas e despesas, mantendo um histórico organizado e oferecendo visualização de dados através de gráficos.
-Além de sua utilidade prática, o projeto também foi desenvolvido como parte de um processo de aprofundamento nos estudos em Java.
+• Além de sua utilidade prática, o projeto também foi desenvolvido como parte de um processo de aprofundamento nos estudos em Java.
 
 -
 ![Dashboard](gifsgithub-ignore/dashboard.gif)
