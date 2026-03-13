@@ -1,7 +1,7 @@
 # 💰 MoneyMind — Seu Gestor Financeiro
 ## 📌 Sobre o Projeto
 
-O #MoneyMind# é uma aplicação Full Stack de gestão financeira, desenvolvida para ajudar usuários a organizar contas, registrar transações e visualizar movimentações financeiras de forma simples e intuitiva.
+O MoneyMind é uma aplicação Full Stack de gestão financeira, desenvolvida para ajudar usuários a organizar contas, registrar transações e visualizar movimentações financeiras de forma simples e intuitiva.
 
 A plataforma permite acompanhar receitas e despesas, mantendo um histórico organizado e oferecendo visualização de dados através de gráficos.
 
@@ -22,7 +22,8 @@ A aplicação está disponível online:
 # 🚀 Tecnologias Utilizadas
 ## Front-end
 
-React
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
 
 Vite
 
@@ -34,15 +35,16 @@ ESLint
 
 ## Backend
 
-Java 21
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 
-Spring Boot
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
 
 Spring Security
 
 Spring Data JPA
 
-JWT
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
 
 Lombok
 
@@ -90,6 +92,9 @@ O sistema segue arquitetura Full Stack com API REST.
 
 ## Full Stack Developer focado em desenvolvimento de aplicações web modernas.
 
-## 📧 devdavidnakahara@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:devdavidnakahara@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-nakahara-8a5132320/)
+
 
 ## 📸 @woo_d4vid
