@@ -74,7 +74,7 @@ O sistema segue arquitetura Full Stack com API REST.
 
 ![Dashboard](bank-backend/gifsgithub-ignore/dashboard.gif)
 
-![Criando Transação](bank-backend/gifsgithub-ignore/transacao.gif)
+![Criando Transação](bank-backend/back/gifsgithub-ignore/transacao.gif)
 
 ![Sistema](bank-backend/gifsgithub-ignore/meusistema.gif)
 
