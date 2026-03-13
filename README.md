@@ -72,7 +72,9 @@ O sistema segue arquitetura Full Stack com API REST.
 
 # 🖼 Demonstração
 
-(Adicione aqui screenshots ou gifs da aplicação)
+![Dashboard](assets/dashboard.gif)
+
+![Criando Transação](assets/transaction.gif)
 
 🚀 Como Executar
 Backend
