@@ -12,7 +12,8 @@ A aplicação está disponível online:
 
 🔗 https://financialgestor.netlify.app
 
-## ⚠️ A API pode levar alguns segundos para responder na primeira requisição caso esteja em ambiente gratuito.
+## ⚠️  O backend está hospedado na plataforma Render em plano gratuito. 
+Após períodos de inatividade, o servidor entra em modo de hibernação e pode levar alguns segundos para responder à primeira requisição enquanto é reativado.⚠️
 
 
 # 🚀 Tecnologias Utilizadas
