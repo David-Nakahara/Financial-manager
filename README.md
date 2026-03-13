@@ -11,6 +11,7 @@ A aplicação está disponível online:
 🔗ACESSO https://financialgestor.netlify.app
 ## ⚠️  O backend está hospedado na plataforma Render em plano gratuito, Após períodos de inatividade, o servidor entra em modo de hibernação e pode levar alguns segundos para responder à primeira requisição enquanto é reativado. ⚠️
 # 🚀 Tecnologias Utilizadas
+-
 ## Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
