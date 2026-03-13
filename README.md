@@ -2,6 +2,9 @@
 ## 📌 Sobre o Projeto
 O MoneyMind é uma aplicação Full Stack de gestão financeira, desenvolvida para ajudar usuários a organizar contas, registrar transações e visualizar movimentações financeiras de forma simples e intuitiva.
 A plataforma permite acompanhar receitas e despesas, mantendo um histórico organizado e oferecendo visualização de dados através de gráficos.
+
+Além de sua utilidade prática, o projeto também foi desenvolvido como parte de um processo de aprofundamento nos estudos em Java. Após um longo período aprendendo a linguagem e criando pequenos projetos para praticar conceitos fundamentais, surgiu a ideia de consolidar esse conhecimento em um projeto mais completo e estruturado, capaz de reunir diferentes tecnologias e simular um cenário real de desenvolvimento de software.
+-
 ![Dashboard](gifsgithub-ignore/dashboard.gif)
 # 🌐 Demonstração Online
 A aplicação está disponível online:
