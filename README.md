@@ -72,9 +72,11 @@ O sistema segue arquitetura Full Stack com API REST.
 
 # 🖼 Demonstração
 
-![Dashboard](assets/tutoras/dashboard.gif)
+![Dashboard](bank-backend/gifsgithub-ignore/dashboard.gif)
 
-![Criando Transação](assets/tutoras/transaction.gif)
+![Criando Transação](bank-backend/gifsgithub-ignore/transacao.gif)
+
+![Sistema](bank-backend/gifsgithub-ignore/meusistema.gif)
 
 🚀 Como Executar
 Backend
