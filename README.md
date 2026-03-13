@@ -72,29 +72,16 @@ O sistema segue arquitetura Full Stack com API REST.
 
 # 🖼 Demonstração
 
-![Dashboard](back/gifsgithub-ignore/dashboard.gif)
-![Criando Transação](back/gifsgithub-ignore/transacao.gif)
-![Sistema](back/gifsgithub-ignore/meusistema.gif)
-🚀 Como Executar
-Backend
-cd bank-backend/back
-./gradlew bootRun
+![Dashboard](gifsgithub-ignore/dashboard.gif)
+![Criando Transação](gifsgithub-ignore/transacao.gif)
+![Sistema](gifsgithub-ignore/meusistema.gif)
 
-Servidor:
-http://localhost:8080
 
-Frontend
-cd bank-frontend
-npm install
-npm run dev
-
-Servidor:
-http://localhost:5173
 
 # 👨‍💻 Desenvolvido por DevDavid
 
-Full Stack Developer focado em desenvolvimento de aplicações web modernas.
+## Full Stack Developer focado em desenvolvimento de aplicações web modernas.
 
-📧 devdavidnakahara@gmail.com
+## 📧 devdavidnakahara@gmail.com
 
-📸 @woo_d4vid
+## 📸 @woo_d4vid
